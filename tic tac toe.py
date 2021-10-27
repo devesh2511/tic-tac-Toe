@@ -10,7 +10,7 @@ print('-----------------------------------Welcome to Tic-Tac-Toe----------------
 
 time.sleep(0.5)
 
-print('This game is made by Devesh\n')
+print('This game is made by Pragya\n')
 
 # variable's
 
